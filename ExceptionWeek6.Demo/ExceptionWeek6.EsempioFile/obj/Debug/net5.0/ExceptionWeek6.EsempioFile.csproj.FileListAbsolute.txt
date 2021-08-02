@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.exe
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ref\ExceptionWeek6.EsempioFile.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\bin\Debug\net5.0\ExceptionWeek6.EsempioFile.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ref\ExceptionWeek6.EsempioFile.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\ExceptionWeek6.EsempioFile\obj\Debug\net5.0\ExceptionWeek6.EsempioFile.genruntimeconfig.cache

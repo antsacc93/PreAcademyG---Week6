@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExceptionWeek6.Demo/1.0.0": {
+        "runtime": {
+          "ExceptionWeek6.Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionWeek6.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
