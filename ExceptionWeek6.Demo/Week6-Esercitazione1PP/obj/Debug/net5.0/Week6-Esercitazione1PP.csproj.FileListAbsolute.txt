@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.exe
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\ref\Week6-Esercitazione1PP.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\bin\Debug\net5.0\Week6-Esercitazione1PP.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\ref\Week6-Esercitazione1PP.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6-Esercitazione1PP\obj\Debug\net5.0\Week6-Esercitazione1PP.genruntimeconfig.cache
