@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.exe
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\ref\Week6.NumeriComplessi.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\bin\Debug\net5.0\Week6.NumeriComplessi.Demo.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\ref\Week6.NumeriComplessi.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\ExceptionWeek6.Demo\Week6.NumeriComplessi.Demo\obj\Debug\net5.0\Week6.NumeriComplessi.Demo.genruntimeconfig.cache

@@ -8,7 +8,61 @@ namespace Week6_Esercitazione1PP
         static void Main(string[] args)
         {
             //ProgrammazionePreventiva();
-            ProgrammazioneConEccezioni();
+            //ProgrammazioneConEccezioni();
+            try
+            {
+                ExceptionThrowing();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+
+        static void ExceptionThrowing()
+        {
+            int[] arrayInteri = new int[5];
+            string path = @"C:\Users\AntoniaSacchitella\Desktop\Week6-PreAcademyG\provaFile.txt";
+            Console.WriteLine("Inserisci il numero da aggiungere");
+            bool successValue = int.TryParse(Console.ReadLine(), out int value);
+            Console.WriteLine("Inserisci la posizione da popolare");
+            bool successIndex = int.TryParse(Console.ReadLine(), out int index);
+            ControlloInput(successValue, successIndex, value, index, path, arrayInteri);          
+        }
+
+        private static void ControlloInput(bool successValue, bool successIndex, int value, int index, string path, int[] arrayInteri)
+        {
+            if (successValue && successIndex)
+            {
+                //LA CONVERSIONE E' ANDATA A BUON FINE
+                if (index > 0 && index < arrayInteri.Length)
+                {
+                    //l'utente ha inserito un valore corretto per la posizione
+                    arrayInteri[index] = value;
+                    if (File.Exists(path))
+                    {
+                        //se il file esiste
+                        StreamWriter sw = new StreamWriter(path);
+                        for (int i = 0; i < arrayInteri.Length; i++)
+                        {
+                            sw.WriteLine(arrayInteri[i]);
+                        }
+                        sw.Close();
+                    }
+                    else
+                    {
+                        throw new FileNotFoundException();
+                    }
+                }
+                else
+                {
+                    throw new IndexOutOfRangeException();
+                }
+            }
+            else
+            {
+                throw new FormatException();
+            }
         }
 
         static void ProgrammazioneConEccezioni()

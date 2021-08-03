@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionWeek6.Demo", "ExceptionWeek6.Demo\ExceptionWeek6.Demo.csproj", "{980FFDCE-BDC5-4471-81EA-7C7DF9C9268B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionWeek6.Demo", "ExceptionWeek6.Demo\ExceptionWeek6.Demo.csproj", "{980FFDCE-BDC5-4471-81EA-7C7DF9C9268B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionWeek6.EsempioFile", "ExceptionWeek6.EsempioFile\ExceptionWeek6.EsempioFile.csproj", "{814A79C5-E9CC-41CA-8212-CE0A9978448F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionWeek6.EsempioFile", "ExceptionWeek6.EsempioFile\ExceptionWeek6.EsempioFile.csproj", "{814A79C5-E9CC-41CA-8212-CE0A9978448F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6-Esercitazione1PP", "Week6-Esercitazione1PP\Week6-Esercitazione1PP.csproj", "{3538ADB4-7FC8-4AA0-9D59-53AAE0A42337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week6-Esercitazione1PP", "Week6-Esercitazione1PP\Week6-Esercitazione1PP.csproj", "{3538ADB4-7FC8-4AA0-9D59-53AAE0A42337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6.NumeriComplessi.Demo", "Week6.NumeriComplessi.Demo\Week6.NumeriComplessi.Demo.csproj", "{ED25B863-5514-4E67-8687-0559670C78AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3538ADB4-7FC8-4AA0-9D59-53AAE0A42337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3538ADB4-7FC8-4AA0-9D59-53AAE0A42337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3538ADB4-7FC8-4AA0-9D59-53AAE0A42337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED25B863-5514-4E67-8687-0559670C78AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED25B863-5514-4E67-8687-0559670C78AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED25B863-5514-4E67-8687-0559670C78AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED25B863-5514-4E67-8687-0559670C78AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
